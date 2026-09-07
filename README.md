@@ -1,69 +1,66 @@
-<h1 align="center">Hi 👋, I'm Siddharth</h1>
+<h1 align="center">
+  Hi 👋, I'm Siddharth
+</h1>
 
 <h3 align="center">
-  A passionate Full Stack Developer from India
+  Full Stack Developer from India
 </h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=infosiddjain&label=Profile%20Views&color=0e75b6&style=flat-square"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/infosiddjain?label=Followers&style=flat-square"
-    alt="GitHub Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/infosiddjain?label=Stars&style=flat-square"
-    alt="GitHub Stars"
-  />
+  Building web applications, learning new technologies,
+  and turning ideas into real products.
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=infosiddjain&theme=flat&no-frame=true&margin-w=10&column=7"
-    alt="GitHub Trophies"
-  />
+
+<img src="https://komarev.com/ghpvc/?username=infosiddjain&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+
+<a href="https://github.com/infosiddjain?tab=followers">
+<img src="https://img.shields.io/github/followers/infosiddjain?label=Followers&style=flat-square" alt="Followers"/>
+</a>
+
+<a href="https://github.com/infosiddjain?tab=repositories">
+<img src="https://img.shields.io/github/stars/infosiddjain?label=Stars&style=flat-square" alt="Stars"/>
+</a>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Learn Refill**
-- 🌱 I'm currently learning **Python**
-- 👯 I'm looking to collaborate on **Dil Ki Bhakti**
-- 💬 Ask me about **React, JavaScript and Full Stack Development**
-- 📫 Reach me at **infosiddjain@gmail.com**
-- 🌐 All of my projects are available on my [Portfolio](https://portfolio-five-brown-mafnjkhjpf.vercel.app/)
+- 🔭 Currently working on **Learn Refill**
+- 🌱 Currently learning **Python**
+- 👯 Looking to collaborate on **Dil Ki Bhakti**
+- 💬 Ask me about **React, JavaScript & Full Stack Development**
+- 📫 Email: **infosiddjain@gmail.com**
+- 🌐 Portfolio: [Visit My Portfolio](https://portfolio-five-brown-mafnjkhjpf.vercel.app/)
 - ⚡ Fun fact: **I love coding and building things**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/infosiddjain">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/infosiddjain">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/infosiddjain">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/infosiddjain">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/infosiddjain">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
@@ -74,87 +71,49 @@
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=infosiddjain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-  height="180"
-  alt="GitHub Stats"
-/>
+<a href="https://github.com/infosiddjain?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosiddjain&layout=compact&langs_count=8&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
+<a href="https://github.com/infosiddjain?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/infosiddjain?tab=followers">
+<img src="https://img.shields.io/badge/👥%20Followers-View%20Followers-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/infosiddjain">
+<img src="https://img.shields.io/github/commit-activity/y/infosiddjain?label=Yearly%20Commits&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/infosiddjain">
+<img src="https://img.shields.io/github/created-at/infosiddjain/Portfolio?label=GitHub%20Since&style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Activity
 
 <p align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=infosiddjain&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
+<a href="https://github.com/infosiddjain?tab=overview">
+<img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/infosiddjain?tab=overview">
+<img src="https://img.shields.io/badge/GitHub%20Activity-View%20Activity-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=infosiddjain&theme=flat&no-frame=true&margin-w=10&column=7"
-  alt="GitHub Trophies"
-/>
-
-</p>
-
----
-
-# 📦 GitHub Overview
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infosiddjain&theme=default"
-  alt="GitHub Profile Details"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infosiddjain&theme=default"
-  height="180"
-  alt="Repositories Per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=infosiddjain&theme=default"
-  height="180"
-  alt="Most Used Languages"
-/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img
-  src="https://ghchart.rshah.org/infosiddjain"
-  alt="GitHub Contribution Calendar"
-/>
-
-</p>
+> Check my GitHub profile for the live contribution graph and activity history.
 
 ---
 
@@ -163,17 +122,11 @@
 <p align="center">
 
 <a href="https://github.com/infosiddjain/text-to-speech">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=text-to-speech&hide_border=true"
-  alt="Text to Speech"
-/>
+<img src="https://img.shields.io/badge/🔊%20Text%20To%20Speech-Explore%20Project-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/infosiddjain/Portfolio">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=Portfolio&hide_border=true"
-  alt="Portfolio"
-/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20Project-181717?style=for-the-badge"/>
 </a>
 
 </p>
@@ -181,17 +134,19 @@
 <p align="center">
 
 <a href="https://github.com/infosiddjain/love-calculator">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=love-calculator&hide_border=true"
-  alt="Love Calculator"
-/>
+<img src="https://img.shields.io/badge/❤️%20Love%20Calculator-Explore%20Project-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/infosiddjain/shoes-app">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=shoes-app&hide_border=true"
-  alt="Shoes App"
-/>
+<img src="https://img.shields.io/badge/👟%20Shoes%20App-Explore%20Project-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/infosiddjain?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -204,25 +159,15 @@
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
 
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
-<a href="https://www.w3.org/html/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 
 </p>
 
@@ -230,25 +175,15 @@
 
 <p align="left">
 
-<a href="https://react.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 
-<a href="https://nextjs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
 
-<a href="https://redux.js.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
 
-<a href="https://tailwindcss.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 
-<a href="https://getbootstrap.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
 
 </p>
 
@@ -256,13 +191,9 @@
 
 <p align="left">
 
-<a href="https://nodejs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 
-<a href="https://expressjs.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
 
 </p>
 
@@ -270,13 +201,9 @@
 
 <p align="left">
 
-<a href="https://www.mongodb.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 
-<a href="https://firebase.google.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
 
 </p>
 
@@ -284,25 +211,15 @@
 
 <p align="left">
 
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 
-<a href="https://www.postman.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 
-<a href="https://www.figma.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 
-<a href="https://www.linux.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 
 </p>
 
@@ -310,10 +227,98 @@
 
 # 🎯 Currently Working On
 
-```text
-🚀 Building       → Learn Refill
-🙏 Collaborating  → Dil Ki Bhakti
-🐍 Learning       → Python
-⚛️ Developing     → React & Full Stack Applications
-💡 Exploring      → New Technologies
-🌎 Contributing   → Open Source
+<table>
+<tr>
+<td>🚀</td>
+<td><strong>Building</strong></td>
+<td>Learn Refill</td>
+</tr>
+
+<tr>
+<td>🙏</td>
+<td><strong>Collaborating</strong></td>
+<td>Dil Ki Bhakti</td>
+</tr>
+
+<tr>
+<td>🐍</td>
+<td><strong>Learning</strong></td>
+<td>Python</td>
+</tr>
+
+<tr>
+<td>⚛️</td>
+<td><strong>Developing</strong></td>
+<td>React & Full Stack Applications</td>
+</tr>
+
+<tr>
+<td>💡</td>
+<td><strong>Exploring</strong></td>
+<td>New Technologies</td>
+</tr>
+
+<tr>
+<td>🌎</td>
+<td><strong>Contributing</strong></td>
+<td>Open Source</td>
+</tr>
+</table>
+
+---
+
+# 📚 What I'm Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Python-Learning-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️%20React-Improving-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Full%20Stack-Development-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌎%20Open%20Source-Exploring-181717?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ GitHub
+
+<p align="center">
+
+<a href="https://github.com/infosiddjain">
+<img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/infosiddjain?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/infosiddjain">
+<img
+src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+height="50"
+width="210"
+alt="Buy Me A Coffee"
+/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+  <i>Keep coding. Keep learning. Keep building. 🚀</i>
+</p>
