@@ -1,111 +1,320 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
 
-# Siddharth Jain
-### Full Stack Developer · India 🇮🇳
+<h3 align="center">
+  A passionate Full Stack Developer from India
+</h3>
 
-Building fast, clean web experiences with React, Node.js, and modern JavaScript.
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=infosiddjain&label=Profile%20Views&color=0e75b6&style=flat-square"
+    alt="infosiddjain"
+  />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-brown-mafnjkhjpf.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosiddjain)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/infosiddjain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infosiddjain@gmail.com)
+  <img
+    src="https://img.shields.io/github/followers/infosiddjain?label=Followers&style=flat-square"
+    alt="GitHub Followers"
+  />
 
-</div>
+  <img
+    src="https://img.shields.io/github/stars/infosiddjain?label=Stars&style=flat-square"
+    alt="GitHub Stars"
+  />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/infosiddjain">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=infosiddjain&theme=flat&no-frame=true&margin-w=10&column=7"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
-## About
+---
 
-I'm a full stack developer who enjoys turning ideas into working products end to end — from UI to API to database. Currently deepening my skills in Python while building out React and Node-based applications.
+## 👨‍💻 About Me
 
-- 🔭 Currently building **[Learn Refill](https://github.com/infosiddjain/learn-refill)**
-- 👯 Open to collaborating on **[Dil Ki Bhakti](https://github.com/infosiddjain/dilkibhagti)**
-- 🌱 Currently learning **Python**
-- 💬 Happy to talk about **React, JavaScript, and Full Stack Development**
+- 🔭 I'm currently working on [Learn Refill](https://github.com/infosiddjain/learn-refill)
+- 🌱 I'm currently learning **Python**
+- 👯 I'm looking to collaborate on [Dil Ki Bhakti](https://github.com/infosiddjain/dilkibhagti)
+- 💬 Ask me about **React, JavaScript and Full Stack Development**
 - 📫 Reach me at **infosiddjain@gmail.com**
+- 🌐 All of my projects are available on my [Portfolio](https://portfolio-five-brown-mafnjkhjpf.vercel.app/)
+- ⚡ Fun fact: **I love coding and building things**
 
-<br/>
+---
 
-## Tech Stack
+# 🌐 Connect With Me
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p align="center">
 
-**Languages**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" title="Redux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" title="Bootstrap"/>
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Data**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" title="Firebase"/>
-
-</td>
-</tr>
-</table>
-
-**Tools:** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>
-
-<br/>
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/infosiddjain/learn-refill">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=learn-refill&hide_border=true&theme=default" width="48%"/>
-</a>
-<a href="https://github.com/infosiddjain/dilkibhagti">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=dilkibhagti&hide_border=true&theme=default" width="48%"/>
+<a href="https://twitter.com/infosiddjain">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-</div>
+<a href="https://linkedin.com/in/infosiddjain">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://instagram.com/infosiddjain">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-## GitHub Stats
+<a href="https://github.com/infosiddjain">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<div align="center">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=infosiddjain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=default" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosiddjain&layout=compact&langs_count=8&hide_border=true&theme=default" height="165"/>
+---
 
-<img src="https://streak-stats.demolab.com/?user=infosiddjain&hide_border=true&theme=default" width="70%"/>
+# 📊 GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=infosiddjain&hide_border=true&area=true&theme=minimal" width="90%"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=infosiddjain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-</div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosiddjain&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
-<br/>
+---
 
-<div align="center">
+# 🔥 Contribution Streak
 
-*Thanks for stopping by — always open to interesting projects and collaborations.*
+<p align="center">
 
-</div>
+<img
+  src="https://streak-stats.demolab.com/?user=infosiddjain&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=infosiddjain&hide_border=true&area=true"
+  alt="Contribution Activity Graph"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=infosiddjain&theme=flat&no-frame=true&margin-w=10&column=7"
+  alt="GitHub Trophies"
+/>
+
+</p>
+
+---
+
+# 📦 GitHub Overview
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infosiddjain&theme=default"
+  alt="GitHub Profile Details"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infosiddjain&theme=default"
+  height="180"
+  alt="Repositories Per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=infosiddjain&theme=default"
+  height="180"
+  alt="Most Used Languages"
+/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img
+  src="https://ghchart.rshah.org/infosiddjain"
+  alt="GitHub Contribution Calendar"
+/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/infosiddjain">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=learn-refill&hide_border=true"
+    alt="Learn Refill"
+  />
+</a>
+
+<a href="https://github.com/infosiddjain">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=dilkibhagti&hide_border=true"
+    alt="Dil Ki Bhakti"
+  />
+</a>
+
+</p>
+
+<!--
+Add two more repositories here:
+
+<a href="https://github.com/infosiddjain">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=infosiddjain&repo=YOUR_REPOSITORY&hide_border=true"
+  />
+</a>
+-->
+
+---
+
+# 🛠️ Languages & Tools
+
+### 💻 Languages
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+</a>
+
+<a href="https://www.w3.org/html/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+</a>
+
+<a href="https://www.w3.org/Style/CSS/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</a>
+
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+
+<a href="https://react.dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+</a>
+
+<a href="https://nextjs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+</a>
+
+<a href="https://redux.js.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" />
+</a>
+
+<a href="https://tailwindcss.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
+</a>
+
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+
+<a href="https://nodejs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+</a>
+
+<a href="https://expressjs.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+</a>
+
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+
+<a href="https://www.mongodb.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+</a>
+
+<a href="https://firebase.google.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+</a>
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+</a>
+
+<a href="https://www.postman.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+</a>
+
+<a href="https://www.figma.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+</a>
+
+</p>
+
+---
+
+# 🎯 Currently Working On
+
+```text
+🚀 Building       → Learn Refill
+🙏 Collaborating  → Dil Ki Bhakti
+🐍 Learning       → Python
+⚛️ Developing     → React & Full Stack Applications
+💡 Exploring      → New Technologies
+🌎 Contributing   → Open Source
