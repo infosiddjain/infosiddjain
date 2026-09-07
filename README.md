@@ -12,17 +12,24 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=infosiddjain&label=Profile%20Views&style=flat-square"
+    alt="Profile Views"
+  />
 
-<img src="https://komarev.com/ghpvc/?username=infosiddjain&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/infosiddjain?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/infosiddjain?label=Followers&style=flat-square"
+      alt="Followers"
+    />
+  </a>
 
-<a href="https://github.com/infosiddjain?tab=followers">
-<img src="https://img.shields.io/github/followers/infosiddjain?label=Followers&style=flat-square" alt="Followers"/>
-</a>
-
-<a href="https://github.com/infosiddjain?tab=repositories">
-<img src="https://img.shields.io/github/stars/infosiddjain?label=Stars&style=flat-square" alt="Stars"/>
-</a>
-
+  <a href="https://github.com/infosiddjain?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/infosiddjain?label=Stars&style=flat-square"
+      alt="Stars"
+    />
+  </a>
 </p>
 
 ---
@@ -44,43 +51,67 @@
 <p align="center">
 
 <a href="https://github.com/infosiddjain">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://linkedin.com/in/infosiddjain">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://instagram.com/infosiddjain">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://twitter.com/infosiddjain">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="Twitter"
+  />
 </a>
 
 <a href="https://facebook.com/infosiddjain">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Highlights
 
 <p align="center">
 
-<a href="https://github.com/infosiddjain?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-View%20Repositories-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/infosiddjain">
+  <img
+    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Profile"
+  />
 </a>
 
-<a href="https://github.com/infosiddjain?tab=stars">
-<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge"/>
+<a href="https://github.com/infosiddjain?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
 </a>
 
 <a href="https://github.com/infosiddjain?tab=followers">
-<img src="https://img.shields.io/badge/👥%20Followers-View%20Followers-181717?style=for-the-badge"/>
+  <img
+    src="https://img.shields.io/badge/Followers-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Followers"
+  />
 </a>
 
 </p>
@@ -88,139 +119,150 @@
 <p align="center">
 
 <a href="https://github.com/infosiddjain">
-<img src="https://img.shields.io/github/commit-activity/y/infosiddjain?label=Yearly%20Commits&style=for-the-badge"/>
+  <img
+    src="https://img.shields.io/github/commit-activity/y/infosiddjain?label=Yearly%20Commits&style=for-the-badge"
+    alt="Yearly Commits"
+  />
 </a>
 
 <a href="https://github.com/infosiddjain">
-<img src="https://img.shields.io/github/created-at/infosiddjain/Portfolio?label=GitHub%20Since&style=for-the-badge"/>
+  <img
+    src="https://img.shields.io/github/last-commit/infosiddjain/Portfolio?label=Latest%20Portfolio%20Commit&style=for-the-badge"
+    alt="Latest Portfolio Commit"
+  />
 </a>
 
 </p>
 
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/infosiddjain?tab=overview">
-<img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/infosiddjain?tab=overview">
-<img src="https://img.shields.io/badge/GitHub%20Activity-View%20Activity-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-> Check my GitHub profile for the live contribution graph and activity history.
+> 📌 My live contribution calendar, activity, achievements, and repository statistics are available directly on my GitHub profile.
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
+<td width="50%">
+
+### 🔊 Text To Speech
+
+A text-to-speech project focused on converting written content into spoken audio.
+
+<p>
 <a href="https://github.com/infosiddjain/text-to-speech">
-<img src="https://img.shields.io/badge/🔊%20Text%20To%20Speech-Explore%20Project-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+My personal portfolio showcasing my projects, skills, and development journey.
+
+<p>
 <a href="https://github.com/infosiddjain/Portfolio">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20Project-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
-<p align="center">
+</td>
 
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ❤️ Love Calculator
+
+A fun web project built to experiment with frontend development and user interaction.
+
+<p>
 <a href="https://github.com/infosiddjain/love-calculator">
-<img src="https://img.shields.io/badge/❤️%20Love%20Calculator-Explore%20Project-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/infosiddjain/shoes-app">
-<img src="https://img.shields.io/badge/👟%20Shoes%20App-Explore%20Project-181717?style=for-the-badge"/>
-</a>
-
 </p>
+
+</td>
+
+<td width="50%">
+
+### 👟 Shoes App
+
+A frontend project focused on building a modern product/e-commerce interface.
+
+<p>
+<a href="https://github.com/infosiddjain/shoes-app">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
 
 <a href="https://github.com/infosiddjain?tab=repositories">
-<img src="https://img.shields.io/badge/📦%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/📦%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="All Repositories"
+  />
 </a>
 
 </p>
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚛️ Frontend
+### 🎨 Frontend
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -267,46 +309,52 @@
 
 ---
 
-# 📚 What I'm Learning
+# 📚 Learning & Growth
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🐍%20Python-Learning-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚛️%20React-Improving-61DAFB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻%20Full%20Stack-Development-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌎%20Open%20Source-Exploring-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-Improving-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Full%20Stack-Development-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Exploring-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
 ---
 
-# ⭐ GitHub
+# ⭐ Let's Connect
+
+<p align="center">
+
+If you like my work, feel free to explore my repositories,
+connect with me, or collaborate on something interesting.
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/infosiddjain">
-<img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Follow on GitHub"
+  />
 </a>
 
-<a href="https://github.com/infosiddjain?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://portfolio-five-brown-mafnjkhjpf.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Visit%20Portfolio-0e75b6?style=for-the-badge"
+    alt="Portfolio"
+  />
 </a>
 
-</p>
-
----
-
-# ☕ Support My Work
-
-<p align="center">
-
-<a href="https://www.buymeacoffee.com/infosiddjain">
-<img
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-height="50"
-width="210"
-alt="Buy Me A Coffee"
-/>
+<a href="mailto:infosiddjain@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>
@@ -317,8 +365,6 @@ alt="Buy Me A Coffee"
 
 ### 💙 Thanks for visiting my profile!
 
-</p>
+<i>Keep coding. Keep learning. Keep building. 🚀</i>
 
-<p align="center">
-  <i>Keep coding. Keep learning. Keep building. 🚀</i>
 </p>
